@@ -1,0 +1,15 @@
+body, div, div p, .btn {
+    font-size: 13px !important;
+}
+
+h3 {
+    font-size: 16px !important;
+}
+
+input::-webkit-input-placeholder {
+    font-size: 13px !important;
+}
+
+input::-moz-placeholder {
+    font-size: 13px !important;
+}

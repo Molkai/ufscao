@@ -1,0 +1,99 @@
+#ajudeBtn {
+    background-color: #FA940A;
+}
+
+#eventosBtn{
+    background-color: #FA940A;
+}
+
+#ajudeTxt {
+    font-weight: 700;
+    font-size: 20px;
+}
+
+section#adocao{
+    background-color: transparent!important;
+}
+
+section#eventos{
+    background-color: transparent!important;
+}
+
+.modal-content{
+    background-color: #80C5CA;
+    border: 10px solid #FA940A;
+}
+
+.card{
+    background-color: #FA940A;
+    align-items: center;
+    justify-content: center;
+}
+
+#maisEventos{
+    align-items: center;
+    justify-content: center;
+}
+
+.eventImg{
+    width:100%;
+    height:250px;
+}
+
+@media(max-width: 768px){
+    #imgHome{
+        padding:50px 0;
+    }
+
+    section{
+        padding: 40px;
+    }
+}
+
+.greenBtn {
+  color: limegreen;
+  align-content: center;
+  background-color: white;
+}
+
+.greenBtn:hover,
+.greenBtn:focus {
+  color: green;
+  text-decoration: none;
+  cursor: pointer;
+  background-color: limegreen;
+}
+
+#imgHome{
+    width: 100%;
+    height: auto;
+}
+
+footer{
+    background-color: #212529!important;
+}
+
+#headEventos{
+    margin-top: 2%;
+}
+
+.fa-arrow-circle-left{
+    color:  #FA940A;
+}
+
+.fa-arrow-circle-left:hover,
+.fa-arrow-circle-left:focus {
+  color: #589499;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+#txtLogo{
+  color: #589499!important;
+}
+
+@media(min-width: 768px){
+    .adoteCard{
+        width: 18rem;
+    }
+}
